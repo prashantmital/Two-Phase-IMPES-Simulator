@@ -1,0 +1,6 @@
+#Avoid tracking locally created temp files.
+
+*.m~
+
+~$*
+
